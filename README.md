@@ -1,9 +1,6 @@
-# MERN-Deployment
+# Pirate Bay | Full-Stack Software Engineer 
 
-
-Pirate Bay | Full-Stack Software Engineer 
-
-# A fun MERN project to categorize all of your favorite pirates with customizable features for each.
+ A fun MERN project to categorize all of your favorite pirates with customizable features for each.
 
 Leveraged speed of single-page app development in React.js for fast and seamless UX. 
 
