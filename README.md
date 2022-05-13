@@ -1,4 +1,4 @@
-# Pirate Bay | Full-Stack Software Engineer 
+# Pirate Bay | Full-Stack Project
 
  A fun MERN project to categorize all of your favorite pirates with customizable features for each.
 
